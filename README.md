@@ -1,2 +1,2 @@
-# mortage-calculator
+# Mortage-Calculator
 java oop course 
